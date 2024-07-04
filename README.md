@@ -23,7 +23,7 @@ Visit my [personal website](https://kiaghods.com) for more information and detai
 <p align="left">
   <a href="https://github.com/kiaghods" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://linkedin.com/in/kia-ghods" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:kia.ghods@princeton.edu"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="45" height="45" /></a>
+  <a href="mailto:kia.ghods@princeton.edu"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -31,10 +31,19 @@ Visit my [personal website](https://kiaghods.com) for more information and detai
 ### Toolkit for:
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&duration=3000&color=cyan&size=35&center=false&vCenter=true&width=550&height=35&lines=Machine+Learning;Software+Design;Data+Science;Applied+Mathematics&hearts;)
 
-## 🔧 Technologies & Tools
-
+### Languages:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,matlab,swift,javascript,react,postgres,mongodb,gcp,aws,docker,kubernetes,pytorch,github,latex" />
+  <img src="https://skillicons.dev/icons?i=python,java,matlab,swift,javascript,html,css,r,latex,md&perline=10" />
+</p>
+
+### Frameworks:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,pytorch,sklearn&perline=10" />
+</p>
+
+### Services:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=gcp,aws,firebase,docker,kubernetes,github,vim,mysql,postgres,mongodb,nginx,selenium,linux,vscode,figma,obsidian&perline=10" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
