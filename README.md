@@ -48,7 +48,7 @@ Visit my [personal website](https://kiaghods.com) for more information and detai
 
 ### Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=npm,nodejs,vim,vscode,figma,obsidian&perline=10" />
+  <img src="https://skillicons.dev/icons?i=npm,nodejs,vim,vscode,idea,sublime,figma,obsidian&perline=10" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
