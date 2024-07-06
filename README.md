@@ -33,7 +33,7 @@ Visit my [personal website](https://kiaghods.com) for more information and detai
 
 ### Languages:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,matlab,swift,javascript,html,css,r,latex,md&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,java,matlab,javascript,html,css,swift,r,latex,md&perline=10" />
 </p>
 
 ### Frameworks:
@@ -43,7 +43,12 @@ Visit my [personal website](https://kiaghods.com) for more information and detai
 
 ### Services:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=gcp,aws,firebase,docker,kubernetes,github,vim,mysql,postgres,mongodb,nginx,selenium,linux,vscode,figma,obsidian&perline=10" />
+  <img src="https://skillicons.dev/icons?i=gcp,aws,firebase,docker,kubernetes,github,mysql,postgres,mongodb,nginx,selenium,linux&perline=10" />
+</p>
+
+### Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=npm,nodejs,vim,vscode,figma,obsidian&perline=10" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
