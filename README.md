@@ -10,7 +10,7 @@ Visit my [personal website](https://kiaghods.com) for more information and detai
 
 ## 📚 Current Projects
 
-- [**Computational Neuroscience Research** @ **Princeton Neuroscience of Cognitive Control Lab**](https://kiaghods.com/portfolio/comp_neuro.html)
+- [**Computational Cognitive Science Research** @ **Princeton Neuroscience of Cognitive Control Lab**](https://kiaghods.com/portfolio/comp_neuro.html)
 - [**Epidemiological Modeling Research**](https://kiaghods.com/portfolio/epidemiological_modeling.html)
 
 ## ⏳ Past Projects
