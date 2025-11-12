@@ -1,5 +1,5 @@
 # Hi there, I'm Kia Ghods 👋
 
-I am a third-year student at Princeton, studying cs + math. 
+I am a third-year undergraduate at Princeton, studying cs + math. 
 
-Visit my [personal website](https://kiaghods.com) for more information and detailed project descriptions.
+Visit my [website](https://kiaghods.com) to learn more!
